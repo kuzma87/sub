@@ -1,0 +1,8 @@
+server:
+  port: 8883
+
+spring:
+  application:
+    name: sub
+
+jwt.token: eyJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiU0VSVklDRSIsInNjcCI6WyJST0xFX1VTRVIiXSwiaXNzIjoiYWt1em1lbmtvIiwic3ViIjoic3ViIn0.ns6OO3PKkF8HTce9z68WbNiJCxYBWnL0bSRjjqml4E4
